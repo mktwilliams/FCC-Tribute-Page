@@ -1,0 +1,62 @@
+<div id="main">
+  <h1 id="title">Tony Adams<h1>
+  <h2>Mr Arsenal<h2>
+  <div id="img-div">
+    <img id="image"
+   src="https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/adams_main.jpg" alt="Picture of Tony Adams">
+  <div id="img-caption">
+    Tony Adams, Arsenal captain.  
+  </div>
+</div>
+<div id="tribute-info">
+  <ul>   
+  <h3 id="headline"> Timeline of Tony Adams' Playing Career
+  </h3>
+  <li><strong>1983</strong> -Makes Arsenal debut aged 17.</li>
+  <li><strong>1984</strong> -Signed as full professional by Arsenal in January after completing apprenticeship.</li>
+    <li><strong> 1985</strong> -Makes first of five appearances for England Under-21s (had previously played at schools and youth level).</li>
+  <li><strong>1987</strong> -1987: Wins first of 66 England caps (13 as captain) in 4-2 victory over Spain in Madrid in February. Member of Arsenal's Littlewoods Cup-winning side as Liverpool are beaten 2-1 in final at Wembley.</li>
+  <li><strong>1988</strong> -Becomes youngest-ever Arsenal captain.</li>
+
+<li><strong>1989</strong> -Leads Arsenal to their first league title for 18 years.</li>
+
+<li><strong>1990</strong> -Not selected for England's World Cup final bid in Italy, which ends with semi-final defeat to Germany in Turin. Jailed for four months after admitting drink-driving offences in December. Serves two months of sentence.</li>
+
+<li><strong>1991</strong> -After coming out of jail, returns to Arsenal side which wins championship for second time in three seasons.</li>
+
+<li><strong>1993</strong> -Helps Arsenal lift Coca-Cola Cup and FA Cup with Wembley wins over Sheffield Wednesday in both competitions. Back in England side for first time since jail sentence as England slump 2-0 to Norway in a World Cup qualifier in Oslo in June.</li>
+
+<li><strong>1994</strong> -Member of Arsenal side which lifts European Cup Winners' Cup, beating Parma 1-0 in final in Copenhagen.</li>
+
+<li><strong>1995</strong> -European misery as Arsenal slump 2-1 to Real Zaragoza in Cup Winners' Cup final in Paris.</li>
+
+<li><strong>1996</strong> -Overcomes knee injury to figure in all five of England's Euro 96 matches in a campaign which again ends in a semi-final defeat on penalties to Germany. 
+
+<li><strong>1997</strong> -Helps England draw 0-0 with Italy in Rome's Olympic Stadium to qualify for France 98.</li>
+
+  <li><strong>1998</strong> -Helps lead Arsenal to the league and FA Cup double.</li>
+
+  <li><strong>1999</strong> -Part of the England team that qualifies for Euro 2000.</li>
+
+  <li><strong>2000</strong> -Arsenal lose to Galatasaray in the UEFA Cup final.</li>
+
+<li><strong>2001</strong> -Adams announces that he intends to quit international football in order to prolong his playing career.
+
+<li><strong>2002</strong> -Plays just 13 league and cup games during the 2001/2002 season due to injury, but does play in the 2-0 FA Cup final victory over Chelsea as the Gunners complete the double.</li>
+  </ul>
+  
+  <h3>I would definitely recommend reading more on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Tony_Adams" target="_blank">Wikipedia entry</a>.</h3>
+  </div>
+</div>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
